@@ -16,8 +16,8 @@ namespace mvcproj.Models
         public DateTime CheckoutDate { get; set; }
         public int TotalPrice { get; set; }
 
-        public Guest Guest { get; set; }
-        public Room Room { get; set; }
-        public List<Payment> Payments { get; set; }
+        public Guest? Guest { get; set; }
+        public Room? Room { get; set; }
+        public List<Payment>? Payments { get; set; }
     }
 }
