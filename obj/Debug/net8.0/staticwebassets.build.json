@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xTWHcAbeAD1f46R1VEiBZ7ZwzUey/NA8m12AJtwcDjs=",
+  "Hash": "cWec6AowTGHdXBOSi3Vk6ZeMpZVwZbDJ2PCjcYZNJa4=",
   "Source": "mvcproj",
   "BasePath": "_content/mvcproj",
   "Mode": "Default",
@@ -1317,6 +1317,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\007fbcc2-9470-4185-a40e-7949fa4d191a_download.jpeg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/007fbcc2-9470-4185-a40e-7949fa4d191a_download#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pbu8u7b3sw",
+      "Integrity": "e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\007fbcc2-9470-4185-a40e-7949fa4d191a_download.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oak2qx827b",
+      "Integrity": "wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\99f120a4-4d0b-42a7-be80-21ba179ec5f3_Screenshot 2025-03-22 215758.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/99f120a4-4d0b-42a7-be80-21ba179ec5f3_Screenshot 2025-03-22 215758#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oak2qx827b",
+      "Integrity": "wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\99f120a4-4d0b-42a7-be80-21ba179ec5f3_Screenshot 2025-03-22 215758.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pbu8u7b3sw",
+      "Integrity": "e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg"
     }
   ],
   "Endpoints": [
@@ -6401,6 +6485,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-WP2yCCNFzTaYwHz6Qt0MukLWhNKVM3vclD9zl4VCIxA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/007fbcc2-9470-4185-a40e-7949fa4d191a_download.jpeg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\007fbcc2-9470-4185-a40e-7949fa4d191a_download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/007fbcc2-9470-4185-a40e-7949fa4d191a_download.pbu8u7b3sw.jpeg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\007fbcc2-9470-4185-a40e-7949fa4d191a_download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pbu8u7b3sw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/007fbcc2-9470-4185-a40e-7949fa4d191a_download.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.oak2qx827b.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oak2qx827b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/99f120a4-4d0b-42a7-be80-21ba179ec5f3_Screenshot 2025-03-22 215758.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\99f120a4-4d0b-42a7-be80-21ba179ec5f3_Screenshot 2025-03-22 215758.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/99f120a4-4d0b-42a7-be80-21ba179ec5f3_Screenshot 2025-03-22 215758.oak2qx827b.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\99f120a4-4d0b-42a7-be80-21ba179ec5f3_Screenshot 2025-03-22 215758.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oak2qx827b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/99f120a4-4d0b-42a7-be80-21ba179ec5f3_Screenshot 2025-03-22 215758.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wK4M7s+emXfyhr1lTMSrVFPwzB3P1Az0fHx/xymF1XE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.pbu8u7b3sw.jpeg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pbu8u7b3sw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM="
         }
       ]
     }

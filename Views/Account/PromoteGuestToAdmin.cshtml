@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "ترقية مستخدم إلى أدمن";
+}
+
+<h2>ترقية مستخدم إلى أدمن</h2>
+
+<form asp-action="PromoteGuestToAdmin" asp-controller="Account" method="post">
+    <div class="form-group">
+        <label for="email">أدخل إيميل المستخدم:</label>
+        <input type="email" id="email" name="email" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">ترقية المستخدم</button>
+</form>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success mt-3">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger mt-3">
+        @TempData["ErrorMessage"]
+    </div>
+}

@@ -15,8 +15,7 @@ namespace mvcproj.Models
         public int HotelID { get; set; }
         public Hotel Hotel { get; set; }
 
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string Name { get; set; }
         public string Position { get; set; }
         public int Salary { get; set; }
         public DateTime DateOfBirth { get; set; }

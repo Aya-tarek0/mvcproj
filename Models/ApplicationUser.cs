@@ -7,6 +7,6 @@ namespace mvcproj.Models
         public Guest GuestProfile { get; set; } 
         public Staff StaffProfile { get; set; }
 
-        public string Address { set; get; }
+        public string? Address { set; get; }
     }
 }

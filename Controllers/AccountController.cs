@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using System.Security.Claims;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using mvcproj.Models;
@@ -76,6 +77,51 @@ namespace mvcproj.Controllers
 
             return Ok("Guest registered successfully!");
         }
+
+        #region Login
+        public IActionResult Login()
+        {
+            return View("Login");
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login(LoginViewModel userFromRequest)
+        {
+            if (ModelState.IsValid)
+            {
+                ApplicationUser appFromDb = await userManager.FindByNameAsync(userFromRequest.UserName);
+
+                if (appFromDb != null)
+                {
+                    bool isPasswordCorrect = await userManager.CheckPasswordAsync(appFromDb, userFromRequest.Password);
+
+                    if (isPasswordCorrect)
+                    {
+                        List<Claim> claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, appFromDb.UserName),
+                    new Claim(ClaimTypes.Email, appFromDb.Email ?? "No Email")
+                };
+
+                        var roles = await userManager.GetRolesAsync(appFromDb);
+                        foreach (var role in roles)
+                        {
+                            claims.Add(new Claim(ClaimTypes.Role, role));
+                        }
+
+                        await signInManager.SignInWithClaimsAsync(appFromDb, userFromRequest.RememberMe, claims);
+
+                        return Ok("Login success");
+                    }
+                }
+
+                ModelState.AddModelError("", "Invalid username or password");
+            }
+
+            return View("Login", userFromRequest);
+        }
+        #endregion
 
     }
 }
