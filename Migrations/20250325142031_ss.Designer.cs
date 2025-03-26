@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using mvcproj.Models;
 
@@ -11,9 +12,11 @@ using mvcproj.Models;
 namespace mvcproj.Migrations
 {
     [DbContext(typeof(Reservecotexet))]
-    partial class ReservecotexetModelSnapshot : ModelSnapshot
+    [Migration("20250325142031_ss")]
+    partial class ss
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -162,10 +165,6 @@ namespace mvcproj.Migrations
 
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
-
-                    b.Property<string>("Address")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
@@ -534,8 +533,8 @@ namespace mvcproj.Migrations
             modelBuilder.Entity("mvcproj.Models.Guest", b =>
                 {
                     b.HasOne("mvcproj.Models.ApplicationUser", "User")
-                        .WithOne("GuestProfile")
-                        .HasForeignKey("mvcproj.Models.Guest", "UserId")
+                        .WithMany()
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -581,23 +580,14 @@ namespace mvcproj.Migrations
                         .IsRequired();
 
                     b.HasOne("mvcproj.Models.ApplicationUser", "User")
-                        .WithOne("StaffProfile")
-                        .HasForeignKey("mvcproj.Models.Staff", "UserId")
+                        .WithMany()
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Hotel");
 
                     b.Navigation("User");
-                });
-
-            modelBuilder.Entity("mvcproj.Models.ApplicationUser", b =>
-                {
-                    b.Navigation("GuestProfile")
-                        .IsRequired();
-
-                    b.Navigation("StaffProfile")
-                        .IsRequired();
                 });
 
             modelBuilder.Entity("mvcproj.Models.Booking", b =>

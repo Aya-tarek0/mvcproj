@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace mvcproj.Models
 {
@@ -6,14 +7,16 @@ namespace mvcproj.Models
     {
 
         //[Key]
-        public int GuestID { get; set; }
+        [Key]  
+        public string UserId { get; set; }
 
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        [ForeignKey("UserId")]
+        public ApplicationUser User { get; set; }
+        public string Name { get; set; }
+     
         public DateTime DateOfBirth { get; set; }
         public string Address { get; set; }
 
-        //[StringLength(15)]
         public string Phone { get; set; }
 
         public string Email { get; set; }
