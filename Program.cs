@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using mvcproj.Models;
+using mvcproj.Reporisatory;
 
 namespace mvcproj
 {
@@ -18,6 +19,8 @@ namespace mvcproj
             {
                 Contextbuilder.UseSqlServer(builder.Configuration.GetConnectionString("db"));
             });
+            builder.Services.AddScoped<IRoomTypeReporisatory, RoomTypeReporisatory>();
+            builder.Services.AddScoped<IRoomReporisatory, RoomReporisatory>();
 
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
             {
@@ -26,6 +29,8 @@ namespace mvcproj
 
 
             }).AddEntityFrameworkStores<Reservecotexet>();
+            
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

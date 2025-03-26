@@ -12,10 +12,12 @@ namespace mvcproj.Models
         [ForeignKey("RoomType")]
         public int TypeID { get; set; }
 
-        public string image { set; get; }
-        public string Status { get; set; }
+        public string? image { set; get; }
+        public string? Status { get; set; }
 
-        public Hotel Hotel { get; set; }
-        public RoomType RoomType { get; set; }
+        public Hotel ?Hotel { get; set; }
+        public RoomType? RoomType { get; set; }
+        [NotMapped] 
+        public IFormFile? ImageFile { get; set; }
     }
 }

@@ -11,8 +11,8 @@ namespace mvcproj.Models
 
         public int Amount { get; set; }
         public DateTime PaymentDate { get; set; }
-        public string PaymentMethod { get; set; }
+        public string? PaymentMethod { get; set; }
 
-        public Booking Booking { get; set; }
+        public Booking? Booking { get; set; }
     }
 }

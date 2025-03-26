@@ -9,7 +9,7 @@ namespace mvcproj.Models
         public string UserId { get; set; }
 
         [ForeignKey("UserId")]
-        public Guest Guest { get; set; }
+        public Guest? Guest { get; set; }
 
         [ForeignKey("Room")]
         public int RoomNumber { get; set; }
@@ -17,8 +17,8 @@ namespace mvcproj.Models
         public DateTime CheckinDate { get; set; }
         public DateTime CheckoutDate { get; set; }
         public int TotalPrice { get; set; }
-
-        public Room Room { get; set; }
-        public List<Payment> Payments { get; set; }
+       
+        public Room? Room { get; set; }
+        public List<Payment>? Payments { get; set; }
     }
 }
