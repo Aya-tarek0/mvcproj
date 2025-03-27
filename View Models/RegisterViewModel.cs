@@ -9,7 +9,7 @@ namespace mvcproj.View_Models
         [DataType(DataType.Password)]
         public string Password { get; set; }
 
-        public string Address { set; get; }
+        public string? Address { set; get; }
         public string Email { get; set; }
         public string Phone { set; get; }
     }

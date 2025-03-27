@@ -123,5 +123,58 @@ namespace mvcproj.Controllers
         }
         #endregion
 
+
+        [HttpGet]
+        public IActionResult RegisterAdmin()
+        {
+            return View("RegisterAdmin");
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> RegisterAdmin(RegisterViewModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest("Invalid data");
+            }
+
+            var user = new ApplicationUser
+            {
+                UserName = model.UserName,
+                Email = model.Email,
+                PhoneNumber = model.Phone,
+            };
+
+            var result = await userManager.CreateAsync(user, model.Password);
+
+            if (!result.Succeeded)
+            {
+                return BadRequest(result.Errors);
+            }
+
+            if (!await roleManager.RoleExistsAsync("Admin"))
+            {
+                await roleManager.CreateAsync(new IdentityRole("Admin"));
+            }
+
+            await userManager.AddToRoleAsync(user, "Admin");
+
+            var staff = new Staff
+            {
+                UserId = user.Id,
+                Name = model.UserName,
+                Phone = model.Phone,
+                Email = model.Email,
+
+            };
+
+            _context.Staffs.Add(staff);
+            await _context.SaveChangesAsync();
+
+            await signInManager.SignInAsync(user, isPersistent: false);
+
+            return Ok("Staff registered successfully!");
+        }
     }
 }
