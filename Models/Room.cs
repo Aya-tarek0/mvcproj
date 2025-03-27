@@ -13,6 +13,7 @@ namespace mvcproj.Models
         public int TypeID { get; set; }
 
         public string? image { set; get; }
+        
         public string? Status { get; set; }
 
         public Hotel ?Hotel { get; set; }

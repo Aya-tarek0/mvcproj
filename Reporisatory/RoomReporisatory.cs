@@ -1,9 +1,10 @@
 ﻿
+using Microsoft.EntityFrameworkCore;
 using mvcproj.Models;
 
 namespace mvcproj.Reporisatory
 {
-    public class RoomReporisatory : IRoomReporisatory
+    public class RoomReporisatory :IGenericReporisatory<Room>, IRoomReporisatory
     {
         Reservecotexet context;
         public RoomReporisatory (Reservecotexet context)
@@ -48,7 +49,19 @@ namespace mvcproj.Reporisatory
         public void Update(Room obj)
         {
             context.Update(obj);
-            Save();
         }
+
+
+        //i make it to use in update Room Action in Room Page 
+        public Room GetRoomDetailsById(int id)
+        {
+            return context.Rooms
+                .Where(r => r.RoomID == id)
+                .Include(r => r.Hotel)
+                .Include(r => r.RoomType)
+                .FirstOrDefault();
+        }
+        
+     
     }
 }

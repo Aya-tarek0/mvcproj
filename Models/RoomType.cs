@@ -4,7 +4,6 @@
     {
         public int RoomTypeId { get; set; }
         public int TypeID { get; set; }
-
         public string? Name { get; set; }
         public string? Description { get; set; }
         public int ?PricePerNight { get; set; }
