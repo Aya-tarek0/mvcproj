@@ -1,6 +1,7 @@
 ﻿
 using Microsoft.EntityFrameworkCore;
 using mvcproj.Models;
+using mvcproj.View_Models;
 
 namespace mvcproj.Reporisatory
 {
@@ -19,9 +20,11 @@ namespace mvcproj.Reporisatory
 
         public List<Room> GetAll()
         {
-           List<Room> rooms= context.Rooms.ToList();
-            return rooms;
+            return context.Rooms
+                .Include(r => r.RoomType) 
+                .ToList();
         }
+
 
         public Room GetById(int id)
         {

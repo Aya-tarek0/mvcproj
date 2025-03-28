@@ -22,15 +22,55 @@ namespace mvcproj.Controllers
             this.roomRepo = roomRepo;
             this.roomTypeRepo = roomTypeRepo;
             this.webHostEnvironment = webHostEnvironment;
-        } 
+        }
         #endregion
 
         #region Show All Rooms
+        /* public IActionResult Index()
+         {
+             List<Room> roomList = roomRepo.GetAll();
+             return View("Index", roomList);
+         }*/
         public IActionResult Index()
         {
-            List<Room> roomList = roomRepo.GetAll();
-            return View("Index", roomList);
+            if (roomRepo == null)
+            {
+                return View("Error"); 
+            }
+
+            var rooms = roomRepo.GetAll();
+
+            List<ShowRoomDetailsViewModel> roomList = rooms
+                .Select(e => new ShowRoomDetailsViewModel
+                {
+                    HotelID = e.HotelID,
+                    ImageUrl = e.image ,
+                    RoomTypeName = e.RoomType.Name,
+                    PricePerNight = e.RoomType.PricePerNight,
+                    RoomStatus = e.Status
+                }).ToList();
+
+            string userType = GetUserType();
+
+            if (userType == "Admin")
+            {
+                return View("Index", roomList);
+            }
+            else
+            {
+                return View("_AllRoomsUser", roomList);
+            }
         }
+
+
+        private string GetUserType()
+        {
+            if (User.IsInRole("Guest"))
+                return "Guest";
+
+            return "User"; 
+        }
+
 
         #endregion
 

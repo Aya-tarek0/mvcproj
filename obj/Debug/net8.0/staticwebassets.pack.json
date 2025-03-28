@@ -329,28 +329,28 @@
       "PackagePath": "staticwebassets\\images\\resto.jpg"
     },
     {
-      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-1.jpg",
-      "PackagePath": "staticwebassets\\images\\room-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-2.jpg",
-      "PackagePath": "staticwebassets\\images\\room-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-3.jpg",
-      "PackagePath": "staticwebassets\\images\\room-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-4.jpg",
-      "PackagePath": "staticwebassets\\images\\room-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-5.jpg",
-      "PackagePath": "staticwebassets\\images\\room-5.jpg"
-    },
-    {
       "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-6.jpg",
       "PackagePath": "staticwebassets\\images\\room-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room1.jpg",
+      "PackagePath": "staticwebassets\\images\\room1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room2.jpg",
+      "PackagePath": "staticwebassets\\images\\room2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room3.jpg",
+      "PackagePath": "staticwebassets\\images\\room3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room4.jpg",
+      "PackagePath": "staticwebassets\\images\\room4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room5.jpg",
+      "PackagePath": "staticwebassets\\images\\room5.jpg"
     },
     {
       "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\staff-1.jpg",

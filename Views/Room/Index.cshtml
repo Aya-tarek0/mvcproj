@@ -1,4 +1,4 @@
-﻿@model IEnumerable<mvcproj.Models.Room>
+﻿@model IEnumerable<ShowRoomDetailsViewModel>
 
 @{
     ViewData["Title"] = "Index";
@@ -22,10 +22,10 @@
                 @Html.DisplayNameFor(model => model.TypeID)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.image)
+                @Html.DisplayNameFor(model => model.ImageUrl)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Status)
+                @Html.DisplayNameFor(model => model.RoomStatus)
             </th>
             <th></th>
         </tr>
@@ -43,11 +43,11 @@
                 @Html.DisplayFor(modelItem => item.TypeID)
             </td>
                 <td>
-                    <img src="@Url.Content(item.image)" alt="Room Image" style="width:100px; height:100px;" />
+                    <img src="@Url.Content(item.ImageUrl)" alt="Room Image" style="width:100px; height:100px;" />
                 </td>
 
             <td>
-                @Html.DisplayFor(modelItem => item.Status)
+                @Html.DisplayFor(modelItem => item.RoomStatus)
             </td>
             <td>
                 @* @Html.ActionLink("UpdatRoomInformation", "Room", new { id = item.RoomID }) | *@

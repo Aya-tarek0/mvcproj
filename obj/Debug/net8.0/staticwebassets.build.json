@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OcFy8ce15HW36PlRdVb4Qj6OCjV+QbcwjYZXM5HX6eU=",
+  "Hash": "f4LCRJUv62IgChjoWsRtQmbj5AJHWGTJzvYDqlRstdc=",
   "Source": "mvcproj",
   "BasePath": "_content/mvcproj",
   "Mode": "Default",
@@ -1760,12 +1760,12 @@
       "OriginalItemSpec": "wwwroot\\images\\resto.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-1.jpg",
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room1.jpg",
       "SourceId": "mvcproj",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
       "BasePath": "_content/mvcproj",
-      "RelativePath": "images/room-1#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/room1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1778,15 +1778,15 @@
       "Integrity": "9rTPT/4SSbdXg+AELA+t5zFlbY2jCTiFFRkBo6OC0NI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\room-1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\room1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-2.jpg",
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room2.jpg",
       "SourceId": "mvcproj",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
       "BasePath": "_content/mvcproj",
-      "RelativePath": "images/room-2#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/room2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1799,15 +1799,15 @@
       "Integrity": "8NDS/q9mH2OzGohyhmv2O9bBWjNlU6B8miusFJCyd+c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\room-2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\room2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-3.jpg",
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room3.jpg",
       "SourceId": "mvcproj",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
       "BasePath": "_content/mvcproj",
-      "RelativePath": "images/room-3#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/room3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1820,15 +1820,15 @@
       "Integrity": "bFrHoIL4cs0kpFSEyPTZn48G3NFypWnb0ORnzo4lR+Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\room-3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\room3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-4.jpg",
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room4.jpg",
       "SourceId": "mvcproj",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
       "BasePath": "_content/mvcproj",
-      "RelativePath": "images/room-4#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/room4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1841,15 +1841,15 @@
       "Integrity": "GEK/cPIZpzp4ExvBgpX20cY8auMk2vJtvZNO0/KYSRc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\room-4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\room4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-5.jpg",
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room5.jpg",
       "SourceId": "mvcproj",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
       "BasePath": "_content/mvcproj",
-      "RelativePath": "images/room-5#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/room5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1862,7 +1862,7 @@
       "Integrity": "ht+mFXcOd5OZ+Nv8BhfLlsDiJLk/uwzDm2R4RJXgqCY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\room-5.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\room5.jpg"
     },
     {
       "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-6.jpg",
@@ -2005,8 +2005,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zv0r2ccepk",
-      "Integrity": "P29bIsU8WBVXBLg8HsodzaZwsp50YXsk3Aqwig1A2Ls=",
+      "Fingerprint": "shfdatho3l",
+      "Integrity": "UIK0RRrhPq+OdgvpnsleKSJZRQLBC0HMdq10WR8sei8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -3706,8 +3706,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mians07yci",
-      "Integrity": "/iAwyQ7IeidyBPGUk97MeCT4NERKSDfjKvC+9a8FSAA=",
+      "Fingerprint": "5kwoa8akoj",
+      "Integrity": "1cQuYHxo9dpiUDSZwSBLZYUrQWQFPVBn9Sci7mpvytc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\rooms.html"
@@ -12520,8 +12520,8 @@
       ]
     },
     {
-      "Route": "images/room-1.af1nukmpy6.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-1.jpg",
+      "Route": "images/room1.af1nukmpy6.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12556,7 +12556,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/room-1.jpg"
+          "Value": "images/room1.jpg"
         },
         {
           "Name": "integrity",
@@ -12565,8 +12565,8 @@
       ]
     },
     {
-      "Route": "images/room-1.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-1.jpg",
+      "Route": "images/room1.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12602,8 +12602,8 @@
       ]
     },
     {
-      "Route": "images/room-2.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-2.jpg",
+      "Route": "images/room2.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12639,8 +12639,8 @@
       ]
     },
     {
-      "Route": "images/room-2.oy3kqxqzvf.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-2.jpg",
+      "Route": "images/room2.oy3kqxqzvf.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12675,7 +12675,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/room-2.jpg"
+          "Value": "images/room2.jpg"
         },
         {
           "Name": "integrity",
@@ -12684,8 +12684,8 @@
       ]
     },
     {
-      "Route": "images/room-3.0f5k631ps4.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-3.jpg",
+      "Route": "images/room3.0f5k631ps4.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12720,7 +12720,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/room-3.jpg"
+          "Value": "images/room3.jpg"
         },
         {
           "Name": "integrity",
@@ -12729,8 +12729,8 @@
       ]
     },
     {
-      "Route": "images/room-3.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-3.jpg",
+      "Route": "images/room3.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12766,8 +12766,8 @@
       ]
     },
     {
-      "Route": "images/room-4.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-4.jpg",
+      "Route": "images/room4.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12803,8 +12803,8 @@
       ]
     },
     {
-      "Route": "images/room-4.o0c1bljj0q.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-4.jpg",
+      "Route": "images/room4.o0c1bljj0q.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12839,7 +12839,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/room-4.jpg"
+          "Value": "images/room4.jpg"
         },
         {
           "Name": "integrity",
@@ -12848,8 +12848,8 @@
       ]
     },
     {
-      "Route": "images/room-5.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-5.jpg",
+      "Route": "images/room5.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12885,8 +12885,8 @@
       ]
     },
     {
-      "Route": "images/room-5.u7i12zeabt.jpg",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room-5.jpg",
+      "Route": "images/room5.u7i12zeabt.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\images\\room5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12921,7 +12921,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/room-5.jpg"
+          "Value": "images/room5.jpg"
         },
         {
           "Name": "integrity",
@@ -13432,7 +13432,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34379"
+          "Value": "28572"
         },
         {
           "Name": "Content-Type",
@@ -13440,11 +13440,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P29bIsU8WBVXBLg8HsodzaZwsp50YXsk3Aqwig1A2Ls=\""
+          "Value": "\"UIK0RRrhPq+OdgvpnsleKSJZRQLBC0HMdq10WR8sei8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:16:24 GMT"
+          "Value": "Fri, 28 Mar 2025 19:53:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13454,12 +13454,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P29bIsU8WBVXBLg8HsodzaZwsp50YXsk3Aqwig1A2Ls="
+          "Value": "sha256-UIK0RRrhPq+OdgvpnsleKSJZRQLBC0HMdq10WR8sei8="
         }
       ]
     },
     {
-      "Route": "index.zv0r2ccepk.html",
+      "Route": "index.shfdatho3l.html",
       "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13469,7 +13469,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34379"
+          "Value": "28572"
         },
         {
           "Name": "Content-Type",
@@ -13477,11 +13477,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P29bIsU8WBVXBLg8HsodzaZwsp50YXsk3Aqwig1A2Ls=\""
+          "Value": "\"UIK0RRrhPq+OdgvpnsleKSJZRQLBC0HMdq10WR8sei8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:16:24 GMT"
+          "Value": "Fri, 28 Mar 2025 19:53:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13491,7 +13491,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zv0r2ccepk"
+          "Value": "shfdatho3l"
         },
         {
           "Name": "label",
@@ -13499,7 +13499,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-P29bIsU8WBVXBLg8HsodzaZwsp50YXsk3Aqwig1A2Ls="
+          "Value": "sha256-UIK0RRrhPq+OdgvpnsleKSJZRQLBC0HMdq10WR8sei8="
         }
       ]
     },
@@ -19840,7 +19840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 00:13:56 GMT"
+          "Value": "Fri, 28 Mar 2025 20:02:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19877,7 +19877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 00:13:56 GMT"
+          "Value": "Fri, 28 Mar 2025 20:02:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19922,7 +19922,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 00:13:56 GMT"
+          "Value": "Fri, 28 Mar 2025 20:02:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19967,7 +19967,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 00:13:56 GMT"
+          "Value": "Fri, 28 Mar 2025 20:02:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20228,6 +20228,51 @@
       ]
     },
     {
+      "Route": "rooms.5kwoa8akoj.html",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\rooms.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cQuYHxo9dpiUDSZwSBLZYUrQWQFPVBn9Sci7mpvytc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 19:31:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kwoa8akoj"
+        },
+        {
+          "Name": "label",
+          "Value": "rooms.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cQuYHxo9dpiUDSZwSBLZYUrQWQFPVBn9Sci7mpvytc="
+        }
+      ]
+    },
+    {
       "Route": "rooms.html",
       "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\rooms.html",
       "Selectors": [],
@@ -20238,7 +20283,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13109"
+          "Value": "13104"
         },
         {
           "Name": "Content-Type",
@@ -20246,11 +20291,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/iAwyQ7IeidyBPGUk97MeCT4NERKSDfjKvC+9a8FSAA=\""
+          "Value": "\"1cQuYHxo9dpiUDSZwSBLZYUrQWQFPVBn9Sci7mpvytc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:16:24 GMT"
+          "Value": "Fri, 28 Mar 2025 19:31:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20260,52 +20305,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/iAwyQ7IeidyBPGUk97MeCT4NERKSDfjKvC+9a8FSAA="
-        }
-      ]
-    },
-    {
-      "Route": "rooms.mians07yci.html",
-      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\rooms.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13109"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/iAwyQ7IeidyBPGUk97MeCT4NERKSDfjKvC+9a8FSAA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:16:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mians07yci"
-        },
-        {
-          "Name": "label",
-          "Value": "rooms.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/iAwyQ7IeidyBPGUk97MeCT4NERKSDfjKvC+9a8FSAA="
+          "Value": "sha256-1cQuYHxo9dpiUDSZwSBLZYUrQWQFPVBn9Sci7mpvytc="
         }
       ]
     },

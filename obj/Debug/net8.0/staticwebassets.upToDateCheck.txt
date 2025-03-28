@@ -79,11 +79,11 @@ wwwroot\images\person_2.jpg
 wwwroot\images\person_3.jpg
 wwwroot\images\person_4.jpg
 wwwroot\images\resto.jpg
-wwwroot\images\room-1.jpg
-wwwroot\images\room-2.jpg
-wwwroot\images\room-3.jpg
-wwwroot\images\room-4.jpg
-wwwroot\images\room-5.jpg
+wwwroot\images\room1.jpg
+wwwroot\images\room2.jpg
+wwwroot\images\room3.jpg
+wwwroot\images\room4.jpg
+wwwroot\images\room5.jpg
 wwwroot\images\room-6.jpg
 wwwroot\images\staff-1.jpg
 wwwroot\images\staff-2.jpg
