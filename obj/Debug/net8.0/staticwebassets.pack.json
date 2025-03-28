@@ -1069,6 +1069,34 @@
       "PackagePath": "staticwebassets\\uploads\\007fbcc2-9470-4185-a40e-7949fa4d191a_download.jpeg"
     },
     {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\207fd223-6284-47cf-a28f-069b171641bb_airpods.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\207fd223-6284-47cf-a28f-069b171641bb_airpods.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.jpg",
+      "PackagePath": "staticwebassets\\uploads\\21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.jpg",
+      "PackagePath": "staticwebassets\\uploads\\39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\4fc63266-a444-43b0-84c3-7b72823bec90_iphone.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4fc63266-a444-43b0-84c3-7b72823bec90_iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.jpg",
+      "PackagePath": "staticwebassets\\uploads\\774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.jpg"
+    },
+    {
       "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg",
       "PackagePath": "staticwebassets\\uploads\\93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg"
     },
@@ -1079,6 +1107,10 @@
     {
       "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg",
       "PackagePath": "staticwebassets\\uploads\\a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.mvcproj.props",

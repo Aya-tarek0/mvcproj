@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NWZcGwuF0UuZ34HxdWlhlrJdTRt6zxo7VZGOR2SXWkg=",
+  "Hash": "OcFy8ce15HW36PlRdVb4Qj6OCjV+QbcwjYZXM5HX6eU=",
   "Source": "mvcproj",
   "BasePath": "_content/mvcproj",
   "Mode": "Default",
@@ -5645,6 +5645,153 @@
       "OriginalItemSpec": "wwwroot\\uploads\\007fbcc2-9470-4185-a40e-7949fa4d191a_download.jpeg"
     },
     {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69b4glea4w",
+      "Integrity": "BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\207fd223-6284-47cf-a28f-069b171641bb_airpods.jpeg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/207fd223-6284-47cf-a28f-069b171641bb_airpods#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c15j42ioji",
+      "Integrity": "QIz5Hp/UHGpiXtLUyCiT6GOsLawJy+9MqpNPut8QtEE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\207fd223-6284-47cf-a28f-069b171641bb_airpods.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iybriedsuf",
+      "Integrity": "So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ciow1kpba7",
+      "Integrity": "FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\4fc63266-a444-43b0-84c3-7b72823bec90_iphone.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/4fc63266-a444-43b0-84c3-7b72823bec90_iphone#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69b4glea4w",
+      "Integrity": "BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4fc63266-a444-43b0-84c3-7b72823bec90_iphone.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iybriedsuf",
+      "Integrity": "So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ciow1kpba7",
+      "Integrity": "FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg",
       "SourceId": "mvcproj",
       "SourceType": "Discovered",
@@ -5706,6 +5853,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\a94cf2a1-9b3d-4bb2-b761-a439de8c3d64_download.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.jpg",
+      "SourceId": "mvcproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\",
+      "BasePath": "_content/mvcproj",
+      "RelativePath": "uploads/e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iybriedsuf",
+      "Integrity": "So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.jpg"
     }
   ],
   "Endpoints": [
@@ -19672,7 +19840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 20:49:48 GMT"
+          "Value": "Fri, 28 Mar 2025 00:13:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19709,7 +19877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 20:49:48 GMT"
+          "Value": "Fri, 28 Mar 2025 00:13:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19754,7 +19922,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 20:49:48 GMT"
+          "Value": "Fri, 28 Mar 2025 00:13:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19799,7 +19967,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 20:49:48 GMT"
+          "Value": "Fri, 28 Mar 2025 00:13:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27686,6 +27854,580 @@
       ]
     },
     {
+      "Route": "uploads/0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.69b4glea4w.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69b4glea4w"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\0cb41e29-2baa-49a5-8d3b-6b7ac7607c51_iphone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/207fd223-6284-47cf-a28f-069b171641bb_airpods.c15j42ioji.jpeg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\207fd223-6284-47cf-a28f-069b171641bb_airpods.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QIz5Hp/UHGpiXtLUyCiT6GOsLawJy+9MqpNPut8QtEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c15j42ioji"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/207fd223-6284-47cf-a28f-069b171641bb_airpods.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QIz5Hp/UHGpiXtLUyCiT6GOsLawJy+9MqpNPut8QtEE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/207fd223-6284-47cf-a28f-069b171641bb_airpods.jpeg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\207fd223-6284-47cf-a28f-069b171641bb_airpods.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QIz5Hp/UHGpiXtLUyCiT6GOsLawJy+9MqpNPut8QtEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QIz5Hp/UHGpiXtLUyCiT6GOsLawJy+9MqpNPut8QtEE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.iybriedsuf.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iybriedsuf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\21002cb2-f050-4fa2-ae0f-9d4c4eafda18_dell.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.ciow1kpba7.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ciow1kpba7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\39fb2072-16b7-4ad8-aa01-06dbbe4678bc_smartwatch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4fc63266-a444-43b0-84c3-7b72823bec90_iphone.69b4glea4w.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\4fc63266-a444-43b0-84c3-7b72823bec90_iphone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69b4glea4w"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4fc63266-a444-43b0-84c3-7b72823bec90_iphone.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4fc63266-a444-43b0-84c3-7b72823bec90_iphone.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\4fc63266-a444-43b0-84c3-7b72823bec90_iphone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgpOE5ln+mjfwR5X7Ly6LDwJCVrgiMpoHKS06oIKQhA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.iybriedsuf.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iybriedsuf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\774cdbb1-e8e5-48e8-94f8-cb6974a24334_dell.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.ciow1kpba7.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ciow1kpba7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\8f9d28f4-8216-40eb-b2c0-cbf1c77008e0_smartwatch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAUBjmZZtQtJzLFHc9/bFTCvONiITLR+Z0j8gu3F9EE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg",
       "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\93e77d92-d6bd-457f-8837-692e726f0486_Screenshot 2025-03-22 215758.jpg",
       "Selectors": [],
@@ -27928,6 +28670,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-e+rByE4UxQfKdTB84jNyTmqNJzgsh2OcF0Hi5G+JnWM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.iybriedsuf.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iybriedsuf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.jpg",
+      "AssetFile": "C:\\Users\\Aya Tarek\\source\\repos\\mvcproj\\mvcproj\\wwwroot\\uploads\\e5e3d5f4-076a-4554-86fd-f9e6319114d1_dell.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-So/SvpJduLB6h+RY0MbOIFWUe+FC5iHfDeHYB0OXtx4="
         }
       ]
     }
