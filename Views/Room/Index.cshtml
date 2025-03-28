@@ -50,8 +50,11 @@
                 @Html.DisplayFor(modelItem => item.Status)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @* @Html.ActionLink("UpdatRoomInformation", "Room", new { id = item.RoomID }) | *@
+                @Html.ActionLink("Update Room Information", "UpdatRoomInformation", "Room", new { id = item.RoomID }, null) |
+                @Html.ActionLink("Detail Room", "ShowRoomDetails", "Room", new { id = item.RoomID }, null) |
+
+                @* @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) | *@
                 @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
             </td>
         </tr>
